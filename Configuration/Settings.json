@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "897237735956418561"
+    },
+
+    "Roles": {
+        "Jail_Role": "898350077431672892",
+        "Booster_Role": "903013725706022933"
+    },
+
+    "Channels": {
+        "Channel_Log": "898720657641189376",
+        "Role_Log": "898720657641189376",
+        "Other_Log": "898720657641189376",
+        "Right_Click": "898720657641189376"    
+    },
+
+    "Emojis": {
+        "Check": "",
+        "Delete": "ÇARPI EMOJİ ID"
+    },
+
+    "Embed": {
+        "Color": "2f3136",
+        "Footer": "Keevz ❤️ ✩ R E V O L İ A N",
+        "Timeout": 10000
+    }
+}
